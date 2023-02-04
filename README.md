@@ -4,23 +4,23 @@
 # NeoCortex 
 
 ## Problem Identified 
-The current process of detecting medical conditions such as brain tumor often involves manual inspection by trained professionals, which can be time-consuming and prone to human error.
+Brain tumors are one of the leading causes of death worldwide, and early and accurate diagnosis is crucial for improving patient outcomes. However, the current diagnostic methods for brain tumors are time-consuming, costly, and often unreliable. This leads to delayed treatment and can have a significant impact on patient health and well-being.
 <br>
 
 ## Solution
-Description about the solution to the identified problem.
+Developing a solution to detect and segment brain tumors from MRI scans is a valuable project that could have a significant impact on the healthcare industry. This type of solution could potentially improve the accuracy and speed of brain tumor diagnosis and treatment planning, helping medical professionals provide better care for patients.the early detection and treatment of brain tumors. Additionally, you could highlight the innovative use of technology and AI to tackle this issue, aligning with the focus of the hackathon on promoting technology-based solutions for health challenges.
 <br>
 
 ## Project Description 
-Long Description about project. This project do that. This project is awesome...
+
 <br>
 
 ## Team members
 
-1. Rohith K Bobby [https://github.com/Rohith04MVK]
-2. Sharon Aliyas [https://github.com/SharonAliyas5573]
-3. R S Sacheth [https://github.com/r-s-sacheth]
-4. George C Thomas [https://github.com/george-ct52]
+1. [Rohith K Bobby](https://github.com/Rohith04MVK)
+2. [Sharon Aliyas Johnson](https://github.com/SharonAliyas5573)
+3. [R S Sacheth](https://github.com/r-s-sacheth)
+4. [George C Thomas](https://github.com/george-ct52)
 
 
 <!-- ## Link to product walkthrough
