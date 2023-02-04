@@ -170,14 +170,16 @@
                        
                         <div class="card">
                             <div class="card-body">
-                                <img src="/static/img/blog-1.jpg" alt="" width="250px" height="250px">   
-                                <img src="/static/img/blog-1.jpg" alt="" width="255px" height="250px">   
-                                <img src="/static/img/blog-1.jpg" alt="" width="250px" height="250px"> <br>    <br>              
-                                <label class="file-upload">
-                                <input type="file" class="file-upload__input"/>
-                                <span class="file-upload__label">Upload</span>
-                                </label>    <br>  
-                                <button class="submit-button btn-info">Submit</button>                              
+                                <img src="/static/img/{{ upload_img }}" alt="" width="250px" height="250px">   
+                                <img src="/static/img/{{ image_mask }}" alt="" width="255px" height="250px">   
+                                <img src="/static/img/{{ image_with_mask }}" alt="" width="250px" height="250px"> <br>    <br>  
+                                <form action="/" method="post" enctype="multipart/form-data">
+                                    <div class="upload-btn-wrapper">
+                                      <button class="btn">Upload a file</button>
+                                      <input type="file" name="file" />
+                                    </div><div  style=" width: min-content; ">
+                                    <input type="submit" class="btn btn-primary btn-lg btn-demo" value="Submit"></div>
+                                  </form>                            
                             </div>
                         </div>
                         
