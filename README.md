@@ -17,9 +17,9 @@ Long Description about project. This project do that. This project is awesome...
 
 ## Team members
 
-1. Rohith K Bobby [(https://github.com/Rohith04MVK)]
-2. Sharon Aliyas [(https://github.com/SharonAliyas5573)]
-3. R S Sacheth https://github.com/r-s-sacheth
+1. Rohith K Bobby [https://github.com/Rohith04MVK]
+2. Sharon Aliyas [https://github.com/SharonAliyas5573]
+3. R S Sacheth [https://github.com/r-s-sacheth]
 4. George C Thomas [https://github.com/george-ct52]
 
 
