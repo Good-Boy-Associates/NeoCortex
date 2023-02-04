@@ -36,5 +36,7 @@ In conclusion, NeoCortex is a highly effective and reliable AI system for the de
 Images of the project (upload images in the asset folder and call the images here)
 
 ## Libraries used
-Library Name - Version
+1. [Numpy](https://numpy.org/)
+2. [Tensorflow](https://pypi.org/project/tensorflow/)
+3. [Scikit](https://pandas.pydata.org/)
 
