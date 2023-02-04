@@ -2,7 +2,7 @@
 
 
 # NeoCortex 
-
+**NOTE: The models are available at this drive [link](https://drive.google.com/drive/folders/1hTaGMJVlaYzl3igUcfukMwM6mGwIh_ja). Please put it in the models folder**
 ## Problem Identified 
 Brain tumors are one of the leading causes of death worldwide, and early and accurate diagnosis is crucial for improving patient outcomes. However, the current diagnostic methods for brain tumors are time-consuming, costly, and often unreliable. This leads to delayed treatment and can have a significant impact on patient health and well-being.
 <br>
