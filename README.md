@@ -33,7 +33,11 @@ Once ResNet and ResUnet have been trained on the dataset of MRI images, they can
 In conclusion, NeoCortex is a highly effective and reliable AI system for the detection and segmentation of brain tumors from MRI images. By using deep learning techniques such as ResNet and ResUnet, NeoCortex provides an accurate and efficient solution for the early detection of this life-threatening disease.
 
 ## Photos of the Project
-Images of the project (upload images in the asset folder and call the images here)
+![alt](./assets/Screenshot_20230204_202546.png)
+![alt](./assets/Screenshot_20230204_202603.png)
+![alt](./assets/TCGA_CS_4942_19970222_1.png)
+![alt](./assets/TCGA_HT_8106_19970727_10.png)
+![alt](./assets/WhatsApp Image 2023-02-04 at 8.20.52 PM.jpeg)
 
 ## Libraries used
 1. [Numpy](https://numpy.org/)
