@@ -4,7 +4,7 @@
 # NeoCortex 
 
 ## Problem Identified 
-Description about the problem identified in the specified domain.
+The current process of detecting medical conditions such as brain tumor often involves manual inspection by trained professionals, which can be time-consuming and prone to human error.
 <br>
 
 ## Solution
